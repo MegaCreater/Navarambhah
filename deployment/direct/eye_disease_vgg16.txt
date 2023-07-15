@@ -1,8 +1,0 @@
-Best model :- eye_disease_vgg16
-Best model link :- https://drive.google.com/file/d/1ux7z-tdjRKrjDtqORnxplfw6jCvkral6/view?usp=drive_link
-
-How to run / execute -> $python {sys.argv[0]} global | local image_address
-like -- for images in local directory -- 
-	$python classifier.py local image.png
-or for global image (from internet, like https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/main/images/Image_1.png)
-	$python classifier.py local https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/main/images/Image_1.png
