@@ -1,4 +1,4 @@
-# Navarambhah - "The New Beginning"
+# Navarambhah (नवारंभः) - "The New Beginning"
 IITk
 
 
