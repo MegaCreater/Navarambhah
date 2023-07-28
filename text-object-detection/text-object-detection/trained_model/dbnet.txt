@@ -1,0 +1,2 @@
+This os link to weights of Dbnet model (detection_dbnet.py) 
+https://drive.google.com/file/d/1Fz3xQfduPxIO8pvGCXVf5_Y_VzGkTGez/view?usp=share_link

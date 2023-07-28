@@ -1,0 +1,7 @@
+Best model :- food_classifier_xception
+Best model link :- https://drive.google.com/file/d/11ac3c2XXZRwLCRRpcna1geBUaNtaHpfy/view?usp=sharing
+How to run / execute -> $python {sys.argv[0]} global | local image_address
+like -- for images in local directory -- 
+	$python classifier.py local image.png
+or for global image (from internet, like https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/food-classification/food_classification/images/image_1.png)
+	$python classifier.py local https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/food-classification/food_classification/images/image_1.png

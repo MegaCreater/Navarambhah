@@ -1,0 +1,8 @@
+best model= "rps_clf_vgg16" 
+best model link= 'https://drive.google.com/file/d/1TErNXc07e5HkLd04P99lsq0NLTUxKwx5/view?usp=drive_link'
+
+How to run / execute -> $python {sys.argv[0]} global | local image_address
+like -- for images in local directory -- 
+	$python classifier.py local sample_image.png
+or for global image (from internet, like https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/rock-paper-scissor-game/rockPaperSissor/images/Scissor.png)
+	$python classifier.py global https://raw.githubusercontent.com/MegaCreater-Projects/Navarambhah/rock-paper-scissor-game/rockPaperSissor/images/Scissor.png

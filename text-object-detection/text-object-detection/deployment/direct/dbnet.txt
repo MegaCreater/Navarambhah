@@ -1,0 +1,10 @@
+This os link to weights of Dbnet model (detection_dbnet.py) 
+https://drive.google.com/file/d/1Fz3xQfduPxIO8pvGCXVf5_Y_VzGkTGez/view?usp=share_link
+
+Best model :- Dbnet model 
+Best model link :- https://drive.google.com/file/d/1Fz3xQfduPxIO8pvGCXVf5_Y_VzGkTGez/view?usp=share_link
+How to run / execute -> $python {sys.argv[0]} global | local image_address
+like -- for images in local directory -- 
+	$python detection_dbnet.py local 100.jpg
+or for global image (from internet, https://github.com/MegaCreater-Projects/Navarambhah/blob/d0acec1c4cf336bc7fa277fdbac1d3532457f838/text-object-detection/deployment/direct/100.jpg
+	$python detection_dbnet.py global https://github.com/MegaCreater-Projects/Navarambhah/blob/d0acec1c4cf336bc7fa277fdbac1d3532457f838/text-object-detection/deployment/direct/100.jpg

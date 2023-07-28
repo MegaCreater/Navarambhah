@@ -1,0 +1,16 @@
+
+
+
+
+
+Best model :- disease_classifier_vgg16
+
+
+Best model link :-https://drive.google.com/file/d/1bcayJXDYyhAqoxYzbHVkq_UTEtmP4Pof/view?usp=drive_link
+
+
+How to run / execute -> $python {sys.argv[0]} global | local image_path
+like -- for images in local directory -- 
+	$python classifier.py local image.jpg
+or for global image (from internet, like https://github.com/MegaCreater-Projects/Navarambhah/blob/03de2a3bf987fe561e77c42ed2e1430c29fdfbed/disease_classifier/images/images1.jpg
+	$python classifier.py global https://github.com/MegaCreater-Projects/Navarambhah/blob/03de2a3bf987fe561e77c42ed2e1430c29fdfbed/disease_classifier/images/images1.jpg

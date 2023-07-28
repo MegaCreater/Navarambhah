@@ -1,0 +1,12 @@
+
+
+
+Best model :- ct_kidney_normal_cyst_tumor_and_stone
+Best model link :- https://drive.google.com/file/d/11ac3c2XXZRwLCRRpcna1geBUaNtaHpfy/view?usp=sharing
+
+How to run / execute -> $python {sys.argv[0]} global | global image_address
+like -- for images in local directory -- 
+	$python classifier.py local WhatsApp Image 2023-07-14 at 13.38.41.jpg
+or for global image (from internet, like https://github.com/MegaCreater-Projects/Navarambhah/blob/ct-kidney-normsal-cyst-tumor-and-stone-classification/ct_kidney_normal_cyst_tumor_and_stone/image/WhatsApp%20Image%202023-07-14%20at%2013.38.41.jpg?raw=true
+	$python classifier.py global https://github.com/MegaCreater-Projects/Navarambhah/blob/ct-kidney-normal-cyst-tumor-and-stone-classification/ct_kidney_normal_cyst_tumor_and_stone/image/WhatsApp%20Image%202023-07-14%20at%2013.38.41.jpg?raw=true
+
