@@ -5,9 +5,9 @@ This project demonstrates image classification for the rock-paper-scissors game 
 ## Dataset
 The "rock_paper_scissors" dataset from TensorFlow Datasets is used for training and evaluation. It consists of images of hand gestures representing rock, paper, and scissors. The dataset is split into training, validation, and test sets.
 
-![png](images/Rock.png) 
-![png](images/Paper.png) 
-![png](images/Scissor.png) 
+![png](rock-paper-scissor-game/rockPaperSissor/images/Rock.png) 
+![png](rock-paper-scissor-game/rockPaperSissor/images/Paper.png) 
+![png](rock-paper-scissor-game/rockPaperSissor/images/Scissor.png) 
 
 ## Requirements
 - TensorFlow
