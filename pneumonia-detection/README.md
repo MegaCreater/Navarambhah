@@ -5,7 +5,7 @@ This project demonstrates Pneumonia detection by image classification using deep
 ## Dataset
 The "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" dataset is used for training and evaluation. It consists of images of X-Ray. The dataset is already available in training, validation, and test sets.
 
-![jpeg](/image/sample_image.jpeg)
+![jpeg](/pneumoniaDetection/image/sample_image.jpeg)
 
 
 ## Requirements
