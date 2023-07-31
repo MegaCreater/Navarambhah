@@ -16,9 +16,9 @@ The "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" dat
 - Numpy
 
 ## Files
-- `pneumonia_detection`: The main Python script for training and evaluating the model.
+- `pneumoniaDetection`: The main Python script for training and evaluating the model.
 - `README.md`: This file providing detailed information about the project.
-- `pneumonia_detection`: Directory containing the saved model.
+- `training_models`: Directory containing the saved model.
 
 ## Usage
 1. Clone the repository:
