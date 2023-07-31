@@ -1,8 +1,0 @@
-Best model :- pneumonia_detection
-Best model link :- https://drive.google.com/file/d/1BLCYdX6PmveuM95R55oQilZgmhB_HQg9/view?usp=drive_link
-
-How to run / execute -> $python {sys.argv[0]} global | local image_address
-like -- for images in local directory -- 
-	$python classifier.py local sample_image.jpeg
-or for global image (from internet, like https://github.com/MegaCreater-Projects/Navarambhah/blob/pneumonia-detection/pneumonia_detection/image/sample_image.jpeg
-	$python classifier.py global https://github.com/MegaCreater-Projects/Navarambhah/blob/pneumonia-detection/pneumonia_detection/image/sample_image.jpeg
