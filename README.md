@@ -48,4 +48,4 @@ Thank you for considering contributing to this project! Please take a moment to 
 
 ### License
 
-By contributing to this project, you agree that your contributions will be licensed under the project's [LICENSE](https://github.com/MegaCreater/Navarambhah/blob/main/LICENSE)https://github.com/MegaCreater/Navarambhah/blob/main/LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the project's [LICENSE](https://github.com/MegaCreater/Navarambhah/blob/main/LICENSE).
