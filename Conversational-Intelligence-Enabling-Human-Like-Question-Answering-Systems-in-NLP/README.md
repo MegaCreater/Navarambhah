@@ -1,4 +1,4 @@
-# Project - Conversational Intelligence : Enabling Human-Like Question-Answering Systems in NLP
+# Conversational Intelligence : Enabling Human-Like Question-Answering Systems in NLP
 
 A Question Answering (QA) system is designed to automatically answer questions posed in natural language. This is a powerful application of NLP and machine learning, and it can have a wide range of use cases, from search engines to customer support chatbots. The project involves building a system that can understand and respond to user queries, making it a valuable tool for information retrieval. 
 
