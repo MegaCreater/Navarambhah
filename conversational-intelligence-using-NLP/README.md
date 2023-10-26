@@ -114,6 +114,8 @@ Question-Answering Interface:
 You can use a web framework like Flask to build a simple question-answering web application. 
 
 ## Here's a basic example:
+
+```python
 from flask import Flask, request, jsonify
 
 app = Flask(__name)
@@ -128,8 +130,7 @@ def question_answering():
 
 if __name__ == '__main__':
     app.run()
-
-
+```
 
 ## Files
 
@@ -163,7 +164,6 @@ Thank you for considering contributing to this project! Please take a moment to 
 
 - Rudrashish Mukherjee [Email1](rudrashishmukherjee@gmail.com), [LinkedIn](https://www.linkedin.com/in/rudrashish-mukherjee)
 - Akshi Teotia  [Email2](teotiaakshi@gmail.com), [LinkedIn](https://www.linkedin.com/in/akshi-teotia)
-- ... 
 
 ## Frequently Asked Questions
 
