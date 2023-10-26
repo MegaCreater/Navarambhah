@@ -161,8 +161,8 @@ Thank you for considering contributing to this project! Please take a moment to 
 
 ## Authors / Support 
 
-- Author 1 Rudrashish Mukherjee  @[Email1](rudrashishmukherjee@gmail.com) @[LinkedIn](https://www.linkedin.com/in/rudrashish-mukherjee)
-- Author 2 Akshi Teotia  @[Email2](teotiaakshi@gmail.com) @[LinkedIn](https://www.linkedin.com/in/akshi-teotia)
+- Rudrashish Mukherjee [Email1](rudrashishmukherjee@gmail.com), [LinkedIn](https://www.linkedin.com/in/rudrashish-mukherjee)
+- Akshi Teotia  [Email2](teotiaakshi@gmail.com), [LinkedIn](https://www.linkedin.com/in/akshi-teotia)
 - ... 
 
 ## Frequently Asked Questions
