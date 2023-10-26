@@ -13,36 +13,7 @@ Source: [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://ar
 
 ## Social and Economic Impact
 
-Social Impact:
-
-1. Improved Access to Information: Conversational AI systems provide a user-friendly interface for accessing information from a vast array of sources, making knowledge more accessible to people regardless of their technological proficiency or language barriers. This can enhance education and digital literacy.
-
-2. Enhanced Customer Support: Businesses and organizations can deploy conversational intelligence to offer 24/7 customer support, resulting in quicker response times, increased customer satisfaction, and more efficient issue resolution.
-
-3. Inclusivity and Accessibility: Conversational AI can benefit individuals with disabilities by offering assistive technologies like voice-activated question-answering systems, making digital content more accessible.
-
-4. Language Translation: NLP-based question-answering systems facilitate communication between individuals who speak different languages, breaking down language barriers and fostering cross-cultural understanding.
-
-5. Healthcare Support: Conversational intelligence can be used in healthcare for telemedicine and assisting patients with health-related questions, thus improving healthcare accessibility, especially in remote areas.
-
-6. Personal Assistant Services: Virtual personal assistants based on conversational intelligence can assist with daily tasks, schedules, and reminders, enhancing productivity and organization for individuals.
-
-Economic Impact:
-
-1. Cost Savings: Conversational AI can reduce the operational costs of customer support and call centers by automating routine inquiries and support tasks, freeing up human agents to focus on more complex issues.
-
-2. Increased Productivity: In businesses and organizations, conversational intelligence can automate data retrieval and processing tasks, saving time and increasing productivity among employees.
-
-3. Customer Engagement and Loyalty: Improved customer support and engagement through conversational intelligence can lead to increased customer retention and loyalty, positively impacting a company's revenue.
-
-4. Market Research: Conversational AI can be used for sentiment analysis, market research, and customer feedback analysis, helping companies better understand their customers' needs and preferences.
-
-5. Training and Knowledge Sharing: Enterprises can use conversational intelligence for internal training and knowledge sharing, leading to more efficient onboarding processes and knowledge dissemination.
-
-6. Monetization Opportunities: Developers and businesses can create and monetize conversational AI applications, chatbots, and virtual assistants for various industries, opening up new revenue streams.
-
-7. Startups and Innovation: The development of conversational intelligence has given rise to a range of startups and innovation opportunities, as entrepreneurs seek to create new applications and services that leverage these technologies.
-
+A conversational intelligence project, despite its potential social and economic benefits, can carry significant risks, including privacy concerns and job displacement. On the positive side, it can enhance customer service, streamline communication, and drive efficiency in various industries, leading to economic growth. However, the loss of jobs due to automation, privacy breaches, and biases in AI algorithms could have adverse social and economic consequences. Striking the right balance between the advantages and drawbacks of conversational intelligence is crucial to harness its full potential while mitigating its negative impacts.
 
 
 ## Requirements
