@@ -46,7 +46,7 @@ The application of Neural Style Transfer to the Pascal VOC dataset carries signi
 
 List of important files and directories in the project. (Can be updated later on) ...
 
-- [.gitignore]((https://github.com/MegaCreater/Navarambhah/blob/main/name-of-your-project/.gitignore)
+- [.gitignore](https://github.com/MegaCreater/Navarambhah/blob/main/name-of-your-project/.gitignore)
 - [LICENSE](https://github.com/MegaCreater/Navarambhah/blob/main/name-of-your-project/LICENSE)
 - [README.md](https://github.com/MegaCreater/Navarambhah/blob/main/name-of-your-project/README.md)
 - ...  (Can be updated later on) ...
